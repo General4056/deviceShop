@@ -8,7 +8,7 @@
 
 ## Страница с товаром
 
-![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/devicePage.png)
+![Страница с товаром](https://github.com/General4056/deviceShop/blob/main/devicePage.png)
 
 ## Корзина
 
