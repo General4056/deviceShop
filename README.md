@@ -8,6 +8,7 @@
 
 - React
 - Redux
+- css modules
 
 ## Функциональность
 
