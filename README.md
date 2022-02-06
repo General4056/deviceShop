@@ -2,7 +2,7 @@
 
 ---
 
-![Превью проекта deviceShop](./main.png)
+[![Превью проекта deviceShop](./src/images/main.png)]
 
 ## Стек
 

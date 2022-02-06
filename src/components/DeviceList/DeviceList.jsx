@@ -5,9 +5,8 @@ import DeviceItem from '../DeviceItem/DeviceItem';
 import Loader from '../Loader/Loader';
 import { useSelector } from 'react-redux';
 
-export default function DeviceList({ listLoading }) {
+export default function DeviceList() {
   const itemList = useSelector((state) => state.device.deviceList);
-
   const statusOfLoading = useSelector((state) => state.device.status);
 
   return (
