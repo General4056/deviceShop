@@ -2,7 +2,21 @@
 
 ---
 
+## Главная страница
+
 ![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/main.png)
+
+## Страница с товаром
+
+![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/devicePage.png)
+
+## Корзина
+
+![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/shoppingCart.png)
+
+## Авторизация
+
+![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/authorization.png)
 
 ## Стек
 
