@@ -2,7 +2,7 @@
 
 ---
 
-![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/src/images/main.png)
+![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/main.png)
 
 ## Стек
 
