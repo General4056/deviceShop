@@ -8,15 +8,15 @@
 
 ## Страница с товаром
 
-![Страница с товаром](https://github.com/General4056/deviceShop/blob/main/devicePage.png)
+![Страница с товаром](https://github.com/General4056/deviceShop/blob/main/devicePage.PNG)
 
 ## Корзина
 
-![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/shoppingCart.png)
+![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/shoppingCart.PNG)
 
 ## Авторизация
 
-![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/authorization.png)
+![Превью проекта deviceShop](https://github.com/General4056/deviceShop/blob/main/authorization.PNG)
 
 ## Стек
 
